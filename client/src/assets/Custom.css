@@ -1,0 +1,14 @@
+
+.colour-overlay{
+    position: absolute;
+    background-colour: rgba(0,0,0,.9);
+    height: 100%;
+    width: 100%;
+    mix-blend-mode: normal;
+}
+
+form {
+    background-color: purple;
+    box-shadow: 5px 5px 5px rgba(0,0,0,.9);
+
+}
